@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**sergiman94/sergiman94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Backend/Software Engineer skilled in javascript, Java, and cloud-based solutions. Proficient in API development, database management, CI/CD, serverless and event-driven architectures. Collaborative team player with a passion for innovation and problem-solving. I am willing to learn and gain experience in the fields that allow me to grow professionally and improve the foundation of my profession.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a Senior Software Engineer at Autodesk
+- 🌱 I’m currently learning Deep Learning and Data Science
+- 👯 I’m looking to collaborate on OSS projects and awesome products ! 
+- 📫 How to reach me: sergiman94@gmail.com
+- 📖 Portfolio: https://sergiman94.github.io/portfolio-ui/#/profile-overview
+- 😄 Pronouns: He/Him
+- ⚡ I am always willing to design, build and create things !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+I work with:<br/>
+
+[![](https://skillicons.dev/icons?i=aws,js,typescript,svg,regex,express,npm,babel,postman,redis,jenkins,dynamodb,workers,md,jest,linux,tensorflow,python,java,gulp,rust,vscode,bash,git,webpack,docker,postgres,graphql,firebase,github&perline=6)](https://skillicons.dev)
+
+## Software I use
+
+![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
