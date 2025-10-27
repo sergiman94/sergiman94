@@ -2,8 +2,8 @@
 
 Experienced Backend/Software Engineer skilled in javascript, typescript, Java, and cloud-based solutions. Proficient in API development, database management, CI/CD, serverless and event-driven architectures. Collaborative team player with a passion for innovation and problem-solving. I am willing to learn and gain experience in the fields that allow me to grow professionally and improve the foundation of my profession.
 
-- 🔭 I’m currently working as a Senior Software Engineer at Autodesk
-- 🌱 I’m currently learning Go and Deep Learning
+- 🔭 I've worked in partner projects, startups and big tech companies
+- 🌱 I’m always learning, implementing new projects and challenging myself
 - 👯 I’m looking to collaborate on OSS projects and awesome products ! 
 - 📫 How to reach me: sergiman94@gmail.com
 - 📖 Portfolio: https://sergiman94.github.io/portfolio-ui/#/profile-overview
