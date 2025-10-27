@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Experienced Backend/Software Engineer skilled in several tecnologies and cloud-based solutions. Proficient in API development, database management, CI/CD, cloud architectures, AI implementation and delivery to production. Collaborative team player with a passion for innovation and problem-solving. I am willing to learn and gain experience in the fields that allow me to grow professionally and improve the foundation of my profession.
+I am a experienced Backend/Software Engineer skilled in several tecnologies and cloud-based solutions. Proficient in API development, database management, CI/CD, cloud architectures, AI implementation and delivery to production. Collaborative team player with a passion for innovation and problem-solving. I am willing to learn and gain experience in the fields that allow me to grow professionally and improve the foundation of my profession.
 
 - 🔭 I've worked in small projects, tech startups and big tech companies
 - 🌱 I’m always learning, implementing new ideas and challenges to keep growing
