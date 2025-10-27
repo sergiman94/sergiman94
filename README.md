@@ -23,15 +23,15 @@ Experienced Backend/Software Engineer skilled in several tecnologies and cloud-b
 
 ## Tech Articles
 
-[What I Learned About The Random Forest Algorithm As A Beginner](https://medium.com/@sergiman94/what-i-learned-about-the-random-forest-algorithm-as-a-beginner-3b22a0e2a26b)
-[Handful Summary About Confusion Matrix](https://medium.com/@sergiman94/handful-summary-about-confusion-matrix-179ff100a881)
-[Closed Form Linear Regression](https://medium.com/@sergiman94/closed-form-linear-regression-217d1bd0feaa)
-[Factory Design Pattern: Typescript](https://medium.com/@sergiman94/factory-design-pattern-typescript-f7b9da20393b)
-[Builder Design Pattern: Authenticator with Typescript](https://medium.com/@sergiman94/builder-design-pattern-authenticator-with-typescript-b2328fa972ff)
-[Singleton Design Pattern: Logger with Typescript](https://medium.com/@sergiman94/singleton-design-pattern-logger-with-typescript-bbf5e65714bd)
-[Decorator Design Pattern: Alerts with Typescript](https://medium.com/@sergiman94/decorator-design-pattern-alerts-with-typescript-81ddf8222f31)
-[Facade Design Pattern: Online Shopping with Typescript](https://medium.com/@sergiman94/facade-design-pattern-online-shopping-with-typescript-0c3ba6ec65b7)
-[Observer Design Pattern: Event emitter library with Typescript](https://medium.com/@sergiman94/observer-design-pattern-event-emitter-library-with-typescript-dc706b88272d7)
+* [What I Learned About The Random Forest Algorithm As A Beginner](https://medium.com/@sergiman94/what-i-learned-about-the-random-forest-algorithm-as-a-beginner-3b22a0e2a26b)
+* [Handful Summary About Confusion Matrix](https://medium.com/@sergiman94/handful-summary-about-confusion-matrix-179ff100a881)
+* [Closed Form Linear Regression](https://medium.com/@sergiman94/closed-form-linear-regression-217d1bd0feaa)
+* [Factory Design Pattern: Typescript](https://medium.com/@sergiman94/factory-design-pattern-typescript-f7b9da20393b)
+* [Builder Design Pattern: Authenticator with Typescript](https://medium.com/@sergiman94/builder-design-pattern-authenticator-with-typescript-b2328fa972ff)
+* [Singleton Design Pattern: Logger with Typescript](https://medium.com/@sergiman94/singleton-design-pattern-logger-with-typescript-bbf5e65714bd)
+* [Decorator Design Pattern: Alerts with Typescript](https://medium.com/@sergiman94/decorator-design-pattern-alerts-with-typescript-81ddf8222f31)
+* [Facade Design Pattern: Online Shopping with Typescript](https://medium.com/@sergiman94/facade-design-pattern-online-shopping-with-typescript-0c3ba6ec65b7)
+* [Observer Design Pattern: Event emitter library with Typescript](https://medium.com/@sergiman94/observer-design-pattern-event-emitter-library-with-typescript-dc706b88272d7)
 
 ## Software I use
 
